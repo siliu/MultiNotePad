@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MultiNotePad</string>
+    <string name="encoding">UTF-8</string>
+    <string name="addNoteTitle">AddNote</string>
+    <string name="appInfoTitle">AppInfo</string>
+    <string name="saved">Notes Saved!</string>
+    <string name="appVersion">Version 1.0</string>
+    <string name="appAuthor">\u00A9 2017, Si Liu</string>
+    <string name="appName">Multi-Notes</string>
+    <string name="dialog_delete_note">Delete note ?</string>
+    <string name="dialog_delete">DELETE</string>
+    <string name="dialog_delete_cancel">CANCEL</string>
+    <string name="dialog_save_note">Save note ?</string>
+    <string name="dialog_save">SAVE</string>
+    <string name="dialog_save_cancel">CANCEL</string>
+</resources>
